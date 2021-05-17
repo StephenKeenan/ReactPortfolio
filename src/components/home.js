@@ -14,8 +14,8 @@ function Home() {
                                 <hr />
                                 <img className="photo" src={Image} alt="The Wedding Singer" />
                                 <p>
-                                    My name is Stephen Keenan, and I'm a coding student from Davie, Florida, just outside of
-                                    Fort Lauderdale. I have a both BFA in Musical Theater and a Juris Doctorate from the
+                                    My name is Stephen Keenan, and I am a recent graduate of the UCF Full Stack Coding Bootcamp student from Davie, Florida, just outside of
+                                    Fort Lauderdale. In addition to my coding certification, I have a both BFA in Musical Theater and a Juris Doctorate from the
                                     University of Florida. I've worked as a professional actor and singer in both New York City
                                     and South Florida, and spent some time working as an assistant in the State Attorney's
                                     Office in Ocala, Florida. I am also an instrument-rated private pilot. I know, its a weird
